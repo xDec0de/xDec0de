@@ -6,8 +6,9 @@
     <a href="https://github.com/xDec0de/42philosophers"><img src=https://github-readme-stats.vercel.app/api/pin/?username=xDec0de&repo=42philosophers&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB"></a>
   </div>
   <h1 align="center">< 𝐌𝐲 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 ></h1>
+
   <div align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xDec0de&count_private=true&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB&showicons=true">
+    <img src="https://github-readme-stats-one-dun-87.vercel.app/api?username=xDec0de&count_private=true&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB&showicons=true">
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=xDec0de&background=0D1116&ring=57C0D8&stroke=212758&currStreakNum=4170FF&sideNums=4170FF&sideLabels=4170FF&currStreakLabel=39ACFF&fire=00FFFB">
     <br>
