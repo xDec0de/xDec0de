@@ -1,7 +1,7 @@
 <body>
   <h1 align="center">< 𝐒𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ></h1>
   <div align="center">
-    <a href="https://github.com/CoderskyNetwork/MCUtils"><img src=https://github-readme-stats.vercel.app/api/pin/?username=CoderskyNetwork&repo=MCUtils&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB"></a>
+    <a href="https://github.com/xDec0de/SkyUtils"><img src=https://github-readme-stats.vercel.app/api/pin/?username=xDec0de&repo=SkyUtils&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB"></a>
     <br>
     <a href="https://github.com/xDec0de/42philosophers"><img src=https://github-readme-stats.vercel.app/api/pin/?username=xDec0de&repo=42philosophers&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB"></a>
   </div>
