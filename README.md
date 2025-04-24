@@ -1,17 +1,23 @@
-<body>
-  <h1 align="center">< 𝐒𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ></h1>
-  <div align="center">
-    <a href="https://github.com/xDec0de/SkyUtils"><img src=https://github-readme-stats.vercel.app/api/pin/?username=xDec0de&repo=SkyUtils&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB"></a>
-    <br>
-    <a href="https://github.com/xDec0de/42philosophers"><img src=https://github-readme-stats.vercel.app/api/pin/?username=xDec0de&repo=42philosophers&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB"></a>
-  </div>
-  <h1 align="center">< 𝐌𝐲 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 ></h1>
+<div align="center">
 
-  <div align="center">
-    <img src="https://github-readme-stats-one-dun-87.vercel.app/api?username=xDec0de&count_private=true&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB&showicons=true">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=xDec0de&background=0D1116&ring=57C0D8&stroke=212758&currStreakNum=4170FF&sideNums=4170FF&sideLabels=4170FF&currStreakLabel=39ACFF&fire=00FFFB">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDec0de&layout=compact&langs_count=6&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB">
-  </div>
-</body>
+  <h1>GitHub Statistics</h1>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xDec0de&background=0D1116&ring=57C0D8&stroke=212758&currStreakNum=4170FF&sideNums=4170FF&sideLabels=4170FF&currStreakLabel=39ACFF&fire=00FFFB">
+  <img src="https://github-readme-stats-one-dun-87.vercel.app/api?username=xDec0de&count_private=true&bg_color=0d1116&title_color=57C0D8&text_color=39ACFF&icon_color=00FFFB&showicons=true">
+
+  <h1>Featured Projects</h1>
+
+  | Name | Description | Docs | Language |
+  | :---: | :---: | :---: | :---: |
+  | [JSky](https://github.com/xDec0de/jsky) | A general purpose collection of utilities suited for all Java projects | [Available](https://docs.codersky.net/jsky) | Java |
+  | [SkyUtils](https://github.com/xDec0de/skyutils) | A powerful yet easy to use multi-platform API for Minecraft plugins | [Available](https://docs.codersky.net/skyutils) | Java |
+  | [JDS](https://github.com/xDec0de/jdsky) | A collection of utilities for Discord bots that use JDA | Soon | Java |
+
+  <h1>Relevant Links</h1>
+
+  | Link | Description |
+  | :---: | :---: |
+  | [SkyDocs](https://docs.codersky.net/) | Documentation page for most of my projects |
+  | [Codersky Repository](https://repo.codersky.net/) | Private maven repository for my Java libraries and APIs |
+
+</div>
