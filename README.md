@@ -11,7 +11,7 @@
   | :---: | :---: | :---: | :---: |
   | [JSky](https://github.com/xDec0de/jsky) | A general purpose collection of utilities suited for all Java projects | [Available](https://docs.codersky.net/jsky) | Java |
   | [SkyUtils](https://github.com/xDec0de/skyutils) | A powerful yet easy to use multi-platform API for Minecraft plugins | [Available](https://docs.codersky.net/skyutils) | Java |
-  | [JDS](https://github.com/xDec0de/jdsky) | A collection of utilities for Discord bots that use JDA | Soon | Java |
+  | [JDS](https://github.com/xDec0de/JDS) | A collection of utilities for Discord bots that use JDA | [Available](https://docs.codersky.net/jds) | Java |
 
   <h1>Relevant Links</h1>
 
