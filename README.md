@@ -20,6 +20,7 @@ about programming in general, but I'm most in love with videogames, so I plan to
 
 | Name | Description | Language |
 | :--- | :---------- | :------: |
+| [Cub3d](https://github.com/xDec0de/42cub3d) | (SOON) Raycasting-based 3D engine in C with textured walls, map parsing, and player movement. | C |
 | [Minishell](https://github.com/xDec0de/42minishell) | Bash-like shell implementing pipes, redirections, environment variables and signals. | C |
 | [Philosophers](https://github.com/xDec0de/42philosophers) | Concurrency project solving the dining philosophers problem using POSIX threads and mutexes. | C |
 
