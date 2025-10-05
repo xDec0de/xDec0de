@@ -15,6 +15,7 @@ about programming in general, but I'm most in love with videogames, so I plan to
 | [JSky](https://github.com/xDec0de/jsky) | General-purpose Java library for modular projects. | [Docs](https://docs.codersky.net/jsky) | Java |
 | [SkyUtils](https://github.com/xDec0de/skyutils) | Multi-platform library for Minecraft plugin development. | [Docs](https://docs.codersky.net/skyutils) | Java |
 | [JDS](https://github.com/xDec0de/JDS) | Utility library for building Discord bots using JDA. | [Docs](https://docs.codersky.net/jds) | Java |
+| [CST](https://github.com/xDec0de/CSkyTester) | A fast and powerful C test suite with no dependencies | [Docs](https://docs.codersky.net/cst) | C |
 
 ## 🎓 Featured Projects @ 42
 
