@@ -2,7 +2,7 @@
 
 # 👋 Hey! I'm xDec0de
 
-Also known as Daniel, I'm a 23-year-old self-taught software developer with **7+ years of experience in Java**, specialized in creating reusable libraries, APIs, and backend systems.
+Also known as Daniel, I'm a 24-year-old self-taught software developer with **7+ years of experience in Java**, specialized in creating reusable libraries, APIs, and backend systems.
 Currently deepening my knowledge as a student at **42 Madrid**. My ultimate goal is to make software development easier for everyone. I'm passionate
 about programming in general, but I'm most in love with videogames, so I plan to work in the industry one day.
 
